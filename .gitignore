@@ -94,6 +94,9 @@ out/
 .specstory
 .specstory/
 *.bat
+!Optimus.bat
 *.vbs
+!Optimus.vbs
 *.lnk
 !Optimus.lnk
+!Optimus.exe

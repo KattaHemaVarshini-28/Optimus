@@ -27,7 +27,14 @@ A real-time AI assistant that provides contextual help during video calls, inter
 - **Click-through Mode**: Make window transparent to clicks when needed
 - **Cross-platform**: Works on macOS, Windows, and Linux (kinda, dont use, just for testing rn)
 
-## Setup
+## Quick Start (Single Click)
+
+On Windows, after cloning:
+- **Double-click `Optimus.exe`** (or `Optimus.lnk` / `Optimus.bat`) directly from the folder.
+- Optimus will start immediately. If first-time runtime is missing, it sets up everything automatically without any manual steps.
+- Or download the standalone installer directly from [GitHub Releases](https://github.com/KattaHemaVarshini-28/Optimus/releases/tag/v0.8.0).
+
+## Setup (Manual)
 
 1. **Get a Gemini API Key**: Visit [Google AI Studio](https://aistudio.google.com/apikey)
 2. **Install Dependencies**: `npm install`
